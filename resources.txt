@@ -1,5 +1,0 @@
-https://gitforwindows.org/
-#link for downloading git for windows
-
-https://www.jenkins.io/doc/book/installing/linux/#long-term-support-release
-#Jenkins installation official site 
